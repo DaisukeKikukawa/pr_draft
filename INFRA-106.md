@@ -42,5 +42,5 @@
 
 
 ## 共有
-[テスト項目]([https://docs.google.com/spreadsheets/d/1P84n1Mj1ZhdDw9PWP7BYCP6RnEZgab-zm7cZiWpZa2A/edit#gid=1692757351](https://docs.google.com/spreadsheets/d/162NQhZ_NRuA-bR621OaMskSfA5PgrmMrYh49sJnyiYQ/edit#gid=2097313625))
+[テスト項目](https://docs.google.com/spreadsheets/d/162NQhZ_NRuA-bR621OaMskSfA5PgrmMrYh49sJnyiYQ/edit#gid=2097313625)
 
