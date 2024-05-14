@@ -19,7 +19,14 @@
 
 - 回答の選択肢に「複数回答」が追加され、回答一覧に複数回答タブが表示されていることを確認 
     
+<img width="1469" alt="スクリーンショット 2024-05-14 11 23 14" src="https://github.com/DaisukeKikukawa/pr_draft/assets/58897760/c8e5027c-c1ce-4fb7-ba12-e6fd5701b7f3">
 
+## 「複数回答」を選択した際の画面表示を確認
+
+- 回答ボタンが非アクティブなことを確認
+- 「複数回答」を選択したとき解答欄のコメントが入力必須になっていることを確認
+
+<img width="608" alt="スクリーンショット 2024-05-14 11 35 11" src="https://github.com/DaisukeKikukawa/pr_draft/assets/58897760/83d2f85d-41b3-4a8e-a0b6-03409883366d">
 
 
 
@@ -27,6 +34,7 @@
 
  - バリデーションにひっかかることを確認 
 
+<img width="1460" alt="スクリーンショット 2024-05-14 11 24 08" src="https://github.com/DaisukeKikukawa/pr_draft/assets/58897760/4a8584a6-9d2d-4e8c-a696-0c38c5cc1e0e">
 
 
 
@@ -36,6 +44,7 @@
  - 「複数回答」を選択し、コメントを入力した際、複数回答タブにコメントが表示されていること
    
 
+<img width="804" alt="スクリーンショット 2024-05-14 11 35 48" src="https://github.com/DaisukeKikukawa/pr_draft/assets/58897760/e02430c2-bd12-46a2-a3f3-d6e752b90f4e">
 
 
 
